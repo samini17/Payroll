@@ -1,0 +1,12 @@
+DEBUG = True
+DEVEL = True
+
+ALLOWED_HOSTS = []
+
+DB_NAME = 'corporation'
+DB_HOST = '127.0.0.1'
+DB_USER = ''
+DB_PASS = ''
+
+BASE_URL = 'http://127.0.0.1:8000/'
+
